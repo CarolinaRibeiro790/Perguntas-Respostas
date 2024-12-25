@@ -1,0 +1,13 @@
+Instalações
+npm init -y
+npm install express --save
+npm install -g nodemon
+npm install --save-dev nodemon
+npm install ejs --save
+npm install body-parser --save
+npm install sequelize --save
+npm install mysql2 --save
+
+para rodar:npm run dev
+
+node_modules
